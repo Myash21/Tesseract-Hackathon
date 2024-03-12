@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mental-Health-Dataset">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/raw/Mental-Health-Dataset.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
